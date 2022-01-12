@@ -6,7 +6,7 @@ on different Rust types or values.
 
 ## Generic over Component types
 
-You can use the generic type parameter to specify what compnent types (and
+You can use the generic type parameter to specify what component types (and
 hence what entities) your system should operate on.
 
 This can be useful when combined with Bevy [states](../programming/states.md).
